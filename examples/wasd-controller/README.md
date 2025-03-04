@@ -13,8 +13,8 @@ bevy 0.15.3
 ``` cargo ``` で新しいプロジェクトを作成する。
 
 ```shell
-$ cargo new wasd
-$ cd wasd
+$ cargo new wasd-controller
+$ cd wasd-controller
 ```
 
 ``` Cargo.toml ``` に追記する。
